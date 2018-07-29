@@ -18,17 +18,6 @@ import javax.media.opengl.GLEventListener;
 import javax.media.opengl.glu.GLU;
 import static javax.swing.JOptionPane.showMessageDialog;
 
-/**
-
-* Snake.java <BR>
-
-* author: Brian Paul (converted to Java by Ron Cemer and Sven Goethel) <P>
-
-*
-
-* This version is equal to Brian Paul's version 1.2 1999/10/21
-
-*/
 
 public class Snake3  implements GLEventListener, KeyListener {
 int maxLength=3;
